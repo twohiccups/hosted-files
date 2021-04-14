@@ -1,4 +1,3 @@
 <Response>
 <Say voice="alice">It was Agatha, all along, suka.</Say>
-<Play>https://github.com/twohiccups/hosted-files/blob/master/agatha.mp3</Play>
 </Response>
